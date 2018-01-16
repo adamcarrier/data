@@ -2,10 +2,11 @@
 
 Lists all the publicly reported costs for constructing or renovating CNU-owned real estate properties. 
 
-`cnu-construction-costs.csv` includes costs for each project along with the source reporting that cost. In cases where multiple differing costs have been reported, the highest cost with its source will be listed.
+`cnu-construction-costs.csv` includes costs for each project along with the source reporting that cost. In cases where multiple differing costs have been reported, the highest cost with its source will be listed. The date the project was completed is based on one of the following criteria: the expected completion date, the ribbon cutting date, or the latest date found on reports about the project.
 
 Header | Description
 -------|------------
 projectname | Name of the construction project
 cost | construction cost
+datecompleted | date the project was completed
 sourceurl | URL for the reporting source

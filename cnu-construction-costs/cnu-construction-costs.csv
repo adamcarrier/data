@@ -1,31 +1,1 @@
-"projectname","cost","datecompleted","sourceurl"
-"Mary Brock Forbes Hall","$80,000,000 ","2011-08-21","http://articles.dailypress.com/2011-08-21/news/dp-nws-cnu-forbes-opening-20110821_1_sarah-forbes-mary-brock-forbes-hall-science-building"
-"Luter Hall","$55,000,000 ","2013-10-01","http://www.thecaptainslog.org/2013/news/cnu-celebrates-newest-academic-building/"
-"Science Building","$54,600,000 ","NA","NA"
-"Fine Arts Center","$50,500,000 ","2020-01-01","http://www.dailypress.com/news/newport-news/dp-cnu-and-pfac-new-building-open-late-2020-20170630-photogallery.html"
-"Shenandoah River Hall","$47,300,000 ","2019-08-01","http://www.dailypress.com/news/education/dp-nws-evg-cnu-construction-update-regattas-library-20171116-story.html"
-"Trible Library Phase II expansion","$47,000,000 ","2018-07-01","http://www.dailypress.com/news/politics/dp-nws-appropriations-projects-cnu-20150519-story.html"
-"Student Success Center ","$45,000,000 ","NA","NA"
-"Rappahannock River Hall","$42,600,000 ","NA","NA"
-"Ferguson Center","$37,900,000 ","NA","NA"
-"York River Hall","$34,000,000 ","NA","NA"
-"Warwick River Hall","$32,624,000 ","2012-08-01","http://www.thecaptainslog.org/2012/news/warwick-river-hall-to-provide-housing-for-second-year-students/"
-"Lewis Archer McMurran Jr., Hall","$31,200,000 ","2010-01-01","NA"
-"Freeman Center Expansion","$26,100,000 ","NA","NA"
-"David Student Union","$25,900,000 ","NA","NA"
-"Trible Library","$23,700,000 ","2008-01-24","NA"
-"CNU Village","$23,000,000 ","NA","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA277"
-"Potomac River Hall","$23,000,000 ","NA","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA277"
-"Greek Village","$18,800,000 ","NA","NA"
-"CNU Apartments","$13,200,000 ","NA","NA"
-"James River Hall","$12,700,000 ","2000-08-01","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA227"
-"Ferguson High School acquisition","$10,800,000 ","1995-02-01","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA193"
-"Regattas Dining Hall expansion","$9,800,000","2018-01-01","http://www.dailypress.com/news/education/dp-nws-evg-cnu-construction-update-regattas-library-20171116-story.html"
-"Hidenwood Shopping Center acquisition","$7,500,000 ","2013-10-16","https://pilotonline.com/inside-business/news/commercial-real-estate/article_5f11cea1-ad13-5bb1-b6c5-5b069925d069.html"
-"East Warwick acquisition (Barclay Apts., Warwick Motel, Lotz Realty, etc.)","$6,600,000 ","2002-08-01","http://articles.dailypress.com/2001-02-21/news/0102210028_1_university-properties-campus-east-side"
-"Pope Chapel","$6,100,000 ","NA","NA"
-"Gregory P. Klich Alumni House","$5,700,000 ","NA","NA"
-"Presidential house","$4,400,000 ","2009-03-01","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA303"
-"POMOCO stadium","$2,500,000 ","2001-09-01","https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA243"
-"Hope Community Church acquisition","$2,385,487 ","2003-10-20","http://assessment.nnva.gov/PT/datalets/datalet.aspx?mode=sales&UseSearch=no&pin=230000217&jur=700&taxyr=2018&LMparent=20"
-"Relax Inn acquisition (former Warwick River Suites)","$1,780,000 ","2005-08-01","http://assessment.nnva.gov/PT/datalets/datalet.aspx?mode=sales&UseSearch=no&pin=230000206&jur=700&taxyr=2018&LMparent=20"
+projectname,cost,datecompleted,fundingsource,sourceurlMary Brock Forbes Hall,"$80,000,000 ",2011-08-21,NA,http://articles.dailypress.com/2011-08-21/news/dp-nws-cnu-forbes-opening-20110821_1_sarah-forbes-mary-brock-forbes-hall-science-buildingLuter Hall,"$55,000,000 ",2013-10-01,NA,http://www.thecaptainslog.org/2013/news/cnu-celebrates-newest-academic-building/Science Building,"$54,600,000 ",NA,NA,NAFine Arts Center,"$50,500,000 ",2020-01-01,NA,http://www.dailypress.com/news/newport-news/dp-cnu-and-pfac-new-building-open-late-2020-20170630-photogallery.htmlShenandoah River Hall,"$47,300,000 ",2019-08-01,NA,http://www.dailypress.com/news/education/dp-nws-evg-cnu-construction-update-regattas-library-20171116-story.htmlTrible Library Phase II expansion,"$47,000,000 ",2018-07-01,NA,http://www.dailypress.com/news/politics/dp-nws-appropriations-projects-cnu-20150519-story.htmlStudent Success Center ,"$45,000,000 ",NA,NA,NARappahannock River Hall,"$42,600,000 ",NA,NA,NAFerguson Center,"$37,900,000 ",NA,NA,NADavid Student Union,"$36,000,000 ",NA,bonds,http://articles.dailypress.com/2006-09-21/news/0609210165_1_david-student-union-residence-halls-new-libraryYork River Hall,"$34,000,000 ",NA,NA,NAWarwick River Hall,"$32,624,000 ",2012-08-01,NA,http://www.thecaptainslog.org/2012/news/warwick-river-hall-to-provide-housing-for-second-year-students/"Lewis Archer McMurran Jr., Hall","$31,200,000 ",2010-01-01,NA,NAFreeman Center Expansion,"$26,100,000 ",NA,NA,NATrible Library,"$23,700,000 ",2008-01-24,NA,NACNU Village,"$23,000,000 ",NA,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA277Potomac River Hall,"$23,000,000 ",NA,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA277Greek Village,"$18,800,000 ",NA,NA,NACNU Apartments,"$13,200,000 ",NA,NA,NAJames River Hall,"$12,700,000 ",2000-08-01,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA227Ferguson High School acquisition,"$10,800,000 ",1995-02-01,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA193Regattas Dining Hall expansion,"$9,800,000 ",2018-01-01,debt service,http://www.dailypress.com/news/education/dp-nws-evg-cnu-construction-update-regattas-library-20171116-story.htmlHidenwood Shopping Center acquisition,"$7,500,000 ",2013-10-16,NA,https://pilotonline.com/inside-business/news/commercial-real-estate/article_5f11cea1-ad13-5bb1-b6c5-5b069925d069.html"East Warwick acquisition (Barclay Apts., Warwick Motel, Lotz Realty, etc.)","$6,600,000 ",2002-08-01,NA,http://articles.dailypress.com/2001-02-21/news/0102210028_1_university-properties-campus-east-sidePope Chapel,"$6,100,000 ",NA,NA,NAGregory P. Klich Alumni House,"$5,700,000 ",NA,NA,NAPresidential house,"$4,400,000 ",2009-03-01,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA303POMOCO stadium,"$2,500,000 ",2001-09-01,NA,https://books.google.com/books?id=VeXRuZVTv-AC&pg=PA243Hope Community Church acquisition,"$2,385,487 ",2003-10-20,NA,http://assessment.nnva.gov/PT/datalets/datalet.aspx?mode=sales&UseSearch=no&pin=230000217&jur=700&taxyr=2018&LMparent=20Relax Inn acquisition (former Warwick River Suites),"$1,780,000 ",2005-08-01,NA,http://assessment.nnva.gov/PT/datalets/datalet.aspx?mode=sales&UseSearch=no&pin=230000206&jur=700&taxyr=2018&LMparent=20

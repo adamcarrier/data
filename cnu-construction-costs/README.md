@@ -9,4 +9,5 @@ Header | Description
 projectname | Name of the project
 cost | project cost
 datecompleted | date the project was completed
+fundingsource | where project funding came from
 sourceurl | URL for the reporting source
